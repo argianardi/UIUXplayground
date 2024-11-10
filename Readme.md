@@ -496,12 +496,68 @@ Keduanya sangat penting; desain UX yang buruk dapat membuat UI yang bagus menjad
 
 Dengan pemahaman ini, Anda dapat lebih menghargai peran masing-masing dalam proses desain dan bagaimana keduanya berkontribusi pada kesuksesan produk digital. Selamat belajar!
 
-Citations:
-[1] https://dibimbing.id/blog/detail/perbedaan-ui-dan-ux
-[2] https://www.gamelab.id/news/2689-5-perbedaan-ui-dan-ux-design-beserta-penjelesannya
-[3] https://www.niagahoster.co.id/blog/perbedaan-ui-dan-ux/
-[4] https://arkademi.com/blog/perbedaan-ui-dan-ux/
-[5] https://it.telkomuniversity.ac.id/perbedaan-user-interface-dan-user-experience-apa-saja/
-[6] https://lms.pusdiktan.id/blog/details/ui-ux-perbedaan-dan-contohnya/33
-[7] https://www.dicoding.com/blog/5-perbedaan-utama-ui-dan-ux-mana-yang-lebih-penting/
-[8] https://icreativelabs.com/blog/memahami-perbedaan-uiux-dan-frontend-fokus-tujuan-skill-dan-tanggung-jawab-dalam-pembuatan-website-atau-aplikasi
+Citations:<br/>
+[1] https://dibimbing.id/blog/detail/perbedaan-ui-dan-ux<br/>
+[2] https://www.gamelab.id/news/2689-5-perbedaan-ui-dan-ux-design-beserta-penjelesannya<br/>
+[3] https://www.niagahoster.co.id/blog/perbedaan-ui-dan-ux/<br/>
+[4] https://arkademi.com/blog/perbedaan-ui-dan-ux/<br/>
+[5] https://it.telkomuniversity.ac.id/perbedaan-user-interface-dan-user-experience-apa-saja/<br/>
+[6] https://lms.pusdiktan.id/blog/details/ui-ux-perbedaan-dan-contohnya/33<br/>
+[7] https://www.dicoding.com/blog/5-perbedaan-utama-ui-dan-ux-mana-yang-lebih-penting/<br/>
+[8] https://icreativelabs.com/blog/memahami-perbedaan-uiux-dan-frontend-fokus-tujuan-skill-dan-tanggung-jawab-dalam-pembuatan-website-atau-aplikasi<br/>
+
+## Materi: Pengenalan Desain Sistem
+
+### Apa Itu Desain Sistem?
+
+Desain sistem adalah kumpulan komponen GUI (Graphical User Interface) yang dapat digunakan kembali, termasuk kode snipped, desain kaitlyn, filosofi desain, dan aset digital lainnya yang dibangun dengan standar yang jelas. Desain sistem membantu perusahaan dalam merancang dan membangun produk dengan lebih efisien dan konsisten [ref](https://www.youtube.com/watch?v=2eApszHuSKo&list=PLrtys_hpIi1n7lePC1KiECYg0X4ABIw08&index=14).
+
+#### Komponen Desain Sistem:
+
+- **GUI Components**: Elemen antarmuka pengguna seperti tombol, form, dan navigasi.
+- **Code Snippets**: Cuplikan kode yang dapat digunakan kembali dalam pengembangan.
+- **Design Guidelines**: Panduan yang menjelaskan bagaimana elemen-elemen tersebut harus digunakan.
+- **Documentation**: Dokumen yang menjelaskan setiap komponen dan cara penggunaannya.
+
+### Mengapa Desain Sistem Diperlukan?
+
+1. **Konsistensi Desain**: Dengan adanya desain sistem, kualitas desain akan menjadi konsisten di seluruh produk. Misalnya, ukuran dan jarak antar elemen UI akan seragam, sehingga menciptakan pengalaman pengguna yang lebih baik.
+
+2. **Kualitas Desain yang Lebih Baik**: Konsistensi dalam desain tidak hanya membuat tampilan lebih menarik tetapi juga meningkatkan pengalaman pengguna secara keseluruhan.
+
+3. **Memudahkan Komunikasi**: Desain sistem memfasilitasi komunikasi antara desainer dan pengembang. Misalnya, jika seorang desainer ingin menunjukkan di mana tombol hover berada, mereka dapat merujuk langsung ke desain sistem untuk menjelaskan dengan jelas.
+
+4. **Mempercepat Proses Desain**: Dengan menggunakan komponen yang sudah tersedia dalam desain sistem, desainer dapat lebih cepat dalam menyusun antarmuka tanpa harus membuat elemen dari awal.
+
+5. **Menjadi Aset Berharga**: Perusahaan yang memiliki desain sistem dapat meningkatkan efisiensi dan produktivitas tim mereka. Ini menjadi aset berharga karena memudahkan pengembangan produk baru dan perbaikan pada produk yang ada.
+
+6. **Fokus pada Pengalaman Pengguna**: Dengan adanya panduan desain yang jelas, desainer dapat lebih fokus pada peningkatan pengalaman pengguna daripada menghabiskan waktu untuk mendesain elemen UI dari nol.
+
+### Contoh Desain Sistem
+
+Berikut adalah beberapa contoh desain sistem yang terkenal dan banyak digunakan:
+
+1. **Material Design oleh Google**: Ini adalah panduan desain komprehensif yang mencakup semua aspek antarmuka pengguna untuk aplikasi web dan mobile.
+2. **Atlassian Design System**: Digunakan oleh produk Atlassian seperti Jira dan Confluence, menyediakan komponen UI dan panduan penggunaan.
+
+3. **Polaris oleh Shopify**: Panduan desain untuk aplikasi Shopify yang membantu developer dan desainer menciptakan pengalaman pengguna yang konsisten.
+
+4. **Carbon Design System oleh IBM**: Ini adalah sistem desain open-source yang digunakan untuk semua produk IBM.
+
+5. **Human Interface Guidelines oleh Apple**: Panduan untuk mendesain aplikasi di platform Apple, memastikan keselarasan dengan filosofi desain Apple.
+
+### Kesimpulan
+
+Desain sistem merupakan elemen penting dalam pengembangan produk digital modern. Dengan memahami konsep ini, Anda akan lebih siap untuk bekerja dalam tim pengembangan produk dan meningkatkan kualitas serta efisiensi dalam proses desain.
+
+Dengan adanya desain sistem, Anda tidak hanya menciptakan produk yang menarik secara visual tetapi juga memberikan pengalaman pengguna yang lebih baik. Selamat belajar!
+
+Citations:<br/>
+[1] https://repository.dinus.ac.id/docs/ajar/3._Edi_ANSI_Desain_Sistem_.pdf <br/>
+[2] https://repository.unikom.ac.id/50584/1/Pertemuan%2012%20-%20Perancangan%20Sistem.pdf<br/>
+[3] https://www.diklatkerja.com/blog/apa-itu-desain-sistem-dan-mengapa-hal-itu-diperlukan<br/>
+[4] https://repository.dinus.ac.id/docs/ajar/Desain_Sistem_Secara_Umum_B.pdf<br/>
+[5] https://www.niagahoster.co.id/blog/perbedaan-ui-dan-ux/<br/>
+[6] https://arkademi.com/blog/perbedaan-ui-dan-ux/<br/>
+[7] https://www.gamelab.id/news/2689-5-perbedaan-ui-dan-ux-design-beserta-penjelesannya<br/>
+[8] https://lms.pusdiktan.id/blog/details/ui-ux-perbedaan-dan-contohnya/33<br/>
