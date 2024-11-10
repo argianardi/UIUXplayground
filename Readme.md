@@ -433,3 +433,75 @@ Citations:
 [6] https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/
 [7] https://pageflows.com
 [8] https://careerfoundry.com/en/blog/ux-design/how-to-create-a-user-flow/
+
+---
+
+## Memahami Perbedaan dan Fokus UI/UX
+
+Halo teman-teman! Pada sesi kali ini, kita akan membahas tentang UI (User Interface) dan UX (User Experience). Kita akan menjelaskan perbedaan antara keduanya, fokus masing-masing, serta keterampilan yang dibutuhkan untuk menjadi seorang desainer yang sukses di bidang ini [ref](https://www.youtube.com/watch?v=3FlQCHdbyi8&list=PLrtys_hpIi1n7lePC1KiECYg0X4ABIw08&index=2).
+
+### 1. Tujuan dan Fokus
+
+**Fokus UX (User Experience)**:
+
+- UX dirancang untuk memberikan pengalaman yang menyenangkan saat menggunakan produk. Ini berarti bahwa tujuan utama dari desain UX adalah menciptakan interaksi yang efisien dan memuaskan bagi pengguna.
+- Komponen desain UX mencakup hampir seluruh elemen dalam produk, seperti fitur, struktur desain, navigasi, user flow, site map, dan wireframe. Selain itu, UX juga melibatkan copywriting dan branding.
+
+**Fokus UI (User Interface)**:
+
+- UI lebih berfokus pada keindahan tampilan. Tujuannya adalah untuk membuat antarmuka yang menarik sehingga pengguna merasa nyaman dan betah berlama-lama menggunakan produk.
+- Komponen desain UI meliputi mock-up, prototipe, style guide, dan elemen visual interaktif lainnya. Desainer UI bertanggung jawab untuk menciptakan tampilan yang estetis dan intuitif.
+
+### 2. Komponen Desain
+
+- **Komponen UX**:
+
+  - Fitur-fitur aplikasi
+  - Struktur desain
+  - Navigasi
+  - User flow
+  - Copywriting
+  - Branding
+
+- **Komponen UI**:
+  - Mock-up (tampilan akhir produk)
+  - Prototipe (interaksi dan alur pengguna)
+  - Style guide (panduan visual)
+
+### 3. Keterampilan yang Dibutuhkan
+
+**Keterampilan untuk Desainer UX**:
+
+1. **Riset Pengguna**: Memahami kebutuhan dan perilaku pengguna melalui wawancara dan survei.
+2. **Analytical Thinking**: Kemampuan untuk menganalisis data pengguna dan mengidentifikasi pola.
+3. **Problem Solving**: Mencari solusi untuk masalah yang dihadapi pengguna.
+4. **Critical Thinking**: Berpikir kritis dalam mengevaluasi desain dan pengalaman pengguna.
+5. **Creative Thinking**: Berpikir kreatif untuk menghasilkan solusi inovatif.
+
+**Keterampilan untuk Desainer UI**:
+
+1. **Desain Grafis**: Kemampuan dalam menciptakan elemen visual yang menarik.
+2. **Desain Branding**: Mengikuti pedoman branding perusahaan sambil menciptakan antarmuka yang menarik.
+3. **Creative Thinking**: Berpikir kreatif untuk menghasilkan tampilan yang unik.
+4. **Convergent Thinking**: Mengedepankan logika dalam desain sambil mempertimbangkan estetika visual.
+
+### Kesimpulan
+
+UI dan UX saling terkait dan memiliki fokus yang berbeda namun saling melengkapi dalam pengembangan produk digital seperti aplikasi atau website.
+
+- **UX berfokus pada pengalaman pengguna**, memastikan bahwa produk tidak hanya fungsional tetapi juga menyenangkan untuk digunakan.
+- **UI berfokus pada tampilan visual**, menciptakan antarmuka yang menarik secara estetis.
+
+Keduanya sangat penting; desain UX yang buruk dapat membuat UI yang bagus menjadi tidak berarti jika pengalaman pengguna tidak memadai. Sebaliknya, UI yang buruk dapat merusak pengalaman pengguna meskipun alur kerjanya sudah baik.
+
+Dengan pemahaman ini, Anda dapat lebih menghargai peran masing-masing dalam proses desain dan bagaimana keduanya berkontribusi pada kesuksesan produk digital. Selamat belajar!
+
+Citations:
+[1] https://dibimbing.id/blog/detail/perbedaan-ui-dan-ux
+[2] https://www.gamelab.id/news/2689-5-perbedaan-ui-dan-ux-design-beserta-penjelesannya
+[3] https://www.niagahoster.co.id/blog/perbedaan-ui-dan-ux/
+[4] https://arkademi.com/blog/perbedaan-ui-dan-ux/
+[5] https://it.telkomuniversity.ac.id/perbedaan-user-interface-dan-user-experience-apa-saja/
+[6] https://lms.pusdiktan.id/blog/details/ui-ux-perbedaan-dan-contohnya/33
+[7] https://www.dicoding.com/blog/5-perbedaan-utama-ui-dan-ux-mana-yang-lebih-penting/
+[8] https://icreativelabs.com/blog/memahami-perbedaan-uiux-dan-frontend-fokus-tujuan-skill-dan-tanggung-jawab-dalam-pembuatan-website-atau-aplikasi
