@@ -493,7 +493,7 @@ UI dan UX saling terkait dan memiliki fokus yang berbeda namun saling melengkapi
 - **UI berfokus pada tampilan visual**, menciptakan antarmuka yang menarik secara estetis.
 
 Keduanya sangat penting; desain UX yang buruk dapat membuat UI yang bagus menjadi tidak berarti jika pengalaman pengguna tidak memadai. Sebaliknya, UI yang buruk dapat merusak pengalaman pengguna meskipun alur kerjanya sudah baik.
-
+https://www.instagram.com/p/DCftmJqz8eU/
 Dengan pemahaman ini, Anda dapat lebih menghargai peran masing-masing dalam proses desain dan bagaimana keduanya berkontribusi pada kesuksesan produk digital. Selamat belajar!
 
 Citations:<br/>
@@ -561,3 +561,58 @@ Citations:<br/>
 [6] https://arkademi.com/blog/perbedaan-ui-dan-ux/<br/>
 [7] https://www.gamelab.id/news/2689-5-perbedaan-ui-dan-ux-design-beserta-penjelesannya<br/>
 [8] https://lms.pusdiktan.id/blog/details/ui-ux-perbedaan-dan-contohnya/33<br/>
+
+---
+
+## Materi: Memahami Version History dalam Desain
+
+### Pengantar
+
+Pada sesi kali ini, kita akan membahas tentang **Version History** atau riwayat versi dalam konteks desain. Fitur ini sangat penting untuk membantu kita mengelola berbagai versi dari file desain yang sedang kita kerjakan. Mari kita lihat lebih dalam tentang apa itu Version History, bagaimana cara menggunakannya, dan manfaatnya [ref](https://www.youtube.com/watch?v=yAwIIpXL-Y4&t=1s).
+
+### Apa Itu Version History?
+
+Version History adalah fitur yang memungkinkan Anda untuk menyimpan dan mengakses berbagai versi dari file desain Anda. Dengan menggunakan fitur ini, Anda dapat kembali ke versi sebelumnya jika diperlukan, sehingga memberikan fleksibilitas dan keamanan dalam proses desain.
+
+### Mengapa Version History Penting?
+
+- **Backup**: Version History berfungsi sebagai cadangan untuk file desain Anda. Jika terjadi kesalahan atau jika klien meminta perubahan yang signifikan, Anda dapat dengan mudah kembali ke versi sebelumnya.
+- **Kolaborasi**: Dalam proyek yang melibatkan banyak orang, seringkali ada kebutuhan untuk melihat atau mengembalikan versi tertentu dari desain. Fitur ini memudahkan kolaborasi antara desainer dan klien.
+- **Pengelolaan Versi**: Ketika Anda bekerja pada beberapa iterasi dari sebuah proyek, Version History membantu Anda melacak perubahan dan perbedaan antara setiap versi.
+
+### Cara Menggunakan Version History
+
+1. **Mengakses Version History**:
+
+   - Di aplikasi desain Anda, cari opsi **Show Version History**. Ini biasanya terletak di menu utama atau dalam pengaturan file.
+
+2. **Menyimpan Versi**:
+
+   - Saat Anda selesai membuat perubahan signifikan pada desain, simpan versi tersebut dengan nama yang sesuai. Misalnya, beri nama "Versi Final" untuk versi yang sudah disetujui.
+
+3. **Membuat Versi Baru**:
+
+   - Setelah menyimpan versi pertama, Anda dapat membuat versi baru dengan melakukan perubahan pada desain. Misalnya, jika Anda mengganti warna elemen dari biru menjadi ungu, simpan sebagai "Versi Warna Ungu".
+
+4. **Melihat Riwayat Versi**:
+
+   - Untuk melihat semua versi yang telah disimpan, buka kembali **Version History**. Di sini, Anda akan melihat daftar semua versi yang telah dibuat.
+
+5. **Mengembalikan Versi Sebelumnya**:
+   - Jika klien menyukai salah satu versi sebelumnya, Anda dapat mengembalikannya dengan memilih versi tersebut dan mengklik opsi **Restore This Version**. Ini akan mengembalikan file ke keadaan seperti pada versi yang dipilih.
+
+### Contoh Penggunaan
+
+Misalkan Anda sedang bekerja pada proyek desain untuk klien dan mereka meminta beberapa variasi dari desain yang sama:
+
+1. **Versi Pertama**: Simpan sebagai "Versi Final".
+2. **Versi Kedua**: Ubah warna elemen dan simpan sebagai "Versi Warna Ungu".
+3. **Versi Ketiga**: Setelah melakukan beberapa perubahan lagi, simpan sebagai "Versi Terbaru".
+
+Jika klien kemudian meminta kembali ke "Versi Final", Anda cukup membuka Version History, memilih "Versi Final", dan mengembalikannya.
+
+### Kesimpulan
+
+Version History adalah alat yang sangat berguna dalam proses desain yang memungkinkan desainer untuk melacak perubahan dan mengelola berbagai versi dari pekerjaan mereka dengan mudah. Dengan memanfaatkan fitur ini, Anda dapat bekerja lebih efisien dan memberikan hasil yang lebih baik kepada klien.
+
+Dengan pemahaman ini, Anda siap untuk menggunakan Version History dalam proyek desain Anda! Selamat berkarya!
